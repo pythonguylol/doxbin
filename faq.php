@@ -28,16 +28,15 @@ include ('inc/inc.php');
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<title>DOXBIN - FAQ</title>
+<title>D - FAQ</title>
 <!--<link href="style/blue.css" rel="stylesheet" type="text/css" />-->
 </head>
 <body>
 <div class="container">
 <h1>FAQ</h1><hr />
 <p class="left">
-Q: How did doxbin get started?<br />
-A: Originally, fuckface (of 808chan.org fame) had a site called 10littleniggers, which had a paste section called "DOX BIN." The site's founder decided to expand on the idea by making it more suited to actual dox than just pastes. He and another guy worked on it (The founder did all the backend stuff + half the HTML, while the other guy did the other half of the HTML + all the CSS) over the course of several weeks of on and off work. Toward the end of May (All of the earliest dox have creation dates of 5/30/11) DOXBIN was born. All the initial dox (15-20 entries) were taken from multiplayernotepad.net's dox section.
-</p>
+<br />
+ 
 
 <p class="left">
 Q: Who was the founder?<br />
