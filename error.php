@@ -6,7 +6,7 @@
 </head>
 <body>
 <p class="left">
-Well im a blackhat hacker residing  in Lisbon, Portugal, was looking for some freelance  hacker assignments on the uplink corporations tor hidden service. i saw a  job opening asking for the site infowars to be "demolished". I  queried the person who posted it from my irc client he went by the  nick/handle "chippy1337".<br />
+Well im a blackhat hacker residing  in Canada, was looking for some freelance  hacker assignments on the uplink corporations tor hidden service. i saw a  job opening asking for the site infowars to be "demolished". I  queried the person who posted it from my irc client he went by the  nick/handle "chippy1337".<br />
 However chippy1337 told me that  the job listing was about to go down since a group has already taken the  job on.
 Because i beleive in free speech  and freedom of information i decided to do a little digging into the  undernet. What i learnt is disturbing especially since i have confirmed it by infilitrating the ROMANIANS, i have learned that a  coalition of chinese black hats from the Red Hacker Alliance, and  ROMANIAN AND SOUTH KOREAN SKIDDIES are preparing to launch a 5 million node malaysian  botnet denial of service attack against doxbin AND its  affiliates.</p>
 
@@ -19,10 +19,10 @@ My curiosity was now going into overload and i started snooping into his territo
 
 <p><a href="/index.php.bak">Go to the index</a> or <a href="/index.php"> the archive</a>.</p>
 
-<p>Join us on IRC: irc.wtfux.org #doxbin<br />
-Follow us on Twitter (<a href="https://twitter.com/#!/TheREALDoxbin">@TheREALDoxbin</a>)<br />
-E-mail: <a href="mailto:doxbin@tormail.org">doxbin@tormail.org</a> <a href="pgp.txt">PGP key</a> (Use it)<br />
-Complaints: (414) 369-2464<br />
+<p><br />
+Follow us on Twitter (<a href="https://twitter.com/#!/TheREALFcfbin">@TheREALFcfbin</a>)<br />
+E-mail: <a href="mailto:fcfbin@tormail.org">fcfbin@tormail.org</a> <a href="pgp.txt">PGP key</a> (Use it)<br />
+<br />
 </p>
 </body>
 </html>
