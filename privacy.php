@@ -5,14 +5,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<title>DOXBIN - Privacy Policy</title>
+<title>FCFBIN - Privacy Policy</title>
 </head>
 <body>
 <div class="container">
 
 <h1>Privacy Policy</h1><hr />
 <p class="left">
-If your dox have been posted: Doxbin has a strict non-removal policy. What this means is that if your info goes up, it's not coming down unless it's bad, old, or otherwise inaccurate. Cover your tracks and you won't have to worry about it. Otherwise, you're just going to be made fun of in #doxbin and on Twitter.
+If your dox have been posted: Fcfbin has a strict non-removal policy. What this means is that if your info goes up, it's not coming down unless it's bad, old, or otherwise inaccurate. Cover your tracks and you won't have to worry about it. Otherwise, you're just going to be made fun of in #doxbin and on Twitter.
 </p>
 
 <p class="left">
@@ -32,9 +32,9 @@ For site visitors:</p>
 </p>
 <div class="well" align="center">
 <p class="contact">
-Join us on IRC: irc.wtfux.org #doxbin<br />
-Follow us on Twitter (<a href="http://twitter.com/TheREALDoxbin">@TheREALDoxbin</a>)<br />
-E-mail: <a href="mailto:doxbin@tormail.org">doxbin@tormail.org</a> <a href="pgp.txt">PGP key</a> (Use it)<br />
+<br />
+Follow us on Twitter (<a href="http://twitter.com/TheREALFCFBIN">@TheREALFcfbin</a>)<br />
+E-mail: <a href="mailto:fcfbin@tormail.org">fcfbin@tormail.org</a> <a href="pgp.txt">PGP key</a> (Use it)<br />
 Complaints: (414) 369-2464<br />
   </p>
   </div>
