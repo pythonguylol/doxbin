@@ -5,7 +5,7 @@ include('inc/inc.php');
 <!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">-->
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<title>DOXBIN</title>
+<title>Fcfbin</title>
 <!--<link href="style/blue.css" rel="stylesheet" type="text/css" />-->
 </head>
 <body>
