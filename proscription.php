@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<title>DOXBIN - PROSCRIPTION LIST</title>
+<title>Fcfbin - PROSCRIPTION LIST</title>
 <!--<link href="style/blue.css" rel="stylesheet" type="text/css" />-->
 </head>
 <body id="center">
